@@ -1,0 +1,161 @@
+{
+    "messages": [
+        {
+            "client_msg_id": "361ac0a7-fd80-4a68-9ee7-84084b6eaf78",
+            "type": "message",
+            "text": "This is a test tagged users <@U01CJTKV4HK> <@U01DLS94FBN> <@U01DHHBQA8N>",
+            "user": "U01CJTKV4HK",
+            "ts": "1604076408.001700",
+            "team": "T01C78EK2BZ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "o2Bf\/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "This is a test tagged users "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U01CJTKV4HK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U01DLS94FBN"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U01DHHBQA8N"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1604076408.001700",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1604076487.002400",
+            "reply_users": [
+                "U01CJTKV4HK",
+                "U01CU6DLZAQ"
+            ],
+            "subscribed": true,
+            "last_read": "1604076427.002100"
+        },
+        {
+            "client_msg_id": "1c5dc184-1802-4c9b-b867-641bfca7e210",
+            "type": "message",
+            "text": "<@U01CU6DLZAQ> status",
+            "user": "U01CJTKV4HK",
+            "ts": "1604076417.001800",
+            "team": "T01C78EK2BZ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4SvR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U01CU6DLZAQ"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " status"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1604076408.001700",
+            "parent_user_id": "U01CJTKV4HK"
+        },
+        {
+            "bot_id": "B01CJUF8AN9",
+            "type": "message",
+            "text": "<@U01CJTKV4HK> \n:interrobang: *[Not found] :* Kh\u00f4ng c\u00f3 th\u00f4ng tin v\u1ec1 task n\u00e0y!",
+            "user": "U01CU6DLZAQ",
+            "ts": "1604076427.002000",
+            "team": "T01C78EK2BZ",
+            "bot_profile": {
+                "id": "B01CJUF8AN9",
+                "deleted": false,
+                "name": "tkbot",
+                "updated": 1602751045,
+                "app_id": "A01DBSBF1GQ",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_36.jpg",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_48.jpg",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_72.jpg"
+                },
+                "team_id": "T01C78EK2BZ"
+            },
+            "thread_ts": "1604076408.001700",
+            "parent_user_id": "U01CJTKV4HK"
+        },
+        {
+            "bot_id": "B01CJUF8AN9",
+            "type": "message",
+            "text": "<@U01CJTKV4HK> \n:interrobang: *[Not found] :* Kh\u00f4ng c\u00f3 th\u00f4ng tin v\u1ec1 task n\u00e0y!",
+            "user": "U01CU6DLZAQ",
+            "ts": "1604076427.002100",
+            "team": "T01C78EK2BZ",
+            "bot_profile": {
+                "id": "B01CJUF8AN9",
+                "deleted": false,
+                "name": "tkbot",
+                "updated": 1602751045,
+                "app_id": "A01DBSBF1GQ",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_36.jpg",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_48.jpg",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_72.jpg"
+                },
+                "team_id": "T01C78EK2BZ"
+            },
+            "thread_ts": "1604076408.001700",
+            "parent_user_id": "U01CJTKV4HK"
+        },
+        {
+            "bot_id": "B01CJUF8AN9",
+            "type": "message",
+            "text": "<@U01CJTKV4HK> \n:interrobang: *[Not found] :* Kh\u00f4ng c\u00f3 th\u00f4ng tin v\u1ec1 task n\u00e0y!",
+            "user": "U01CU6DLZAQ",
+            "ts": "1604076487.002400",
+            "team": "T01C78EK2BZ",
+            "bot_profile": {
+                "id": "B01CJUF8AN9",
+                "deleted": false,
+                "name": "tkbot",
+                "updated": 1602751045,
+                "app_id": "A01DBSBF1GQ",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_36.jpg",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_48.jpg",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1427050699973_07cd6bddd67990f49ee1_72.jpg"
+                },
+                "team_id": "T01C78EK2BZ"
+            },
+            "thread_ts": "1604076408.001700",
+            "parent_user_id": "U01CJTKV4HK"
+        }
+    ],
+    "has_more": false,
+    "ok": true
+}
